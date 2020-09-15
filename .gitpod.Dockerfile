@@ -1,4 +1,4 @@
-FROM python
+FROM python:latest
 
 # Install custom tools, runtimes, etc.
 # For example "bastet", a command-line tetris clone:
