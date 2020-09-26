@@ -1,13 +1,13 @@
 # This workflow will install Python dependencies, run tests and lint with a variety of Python versions
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
 
-name: Python package
+name: UpdateData
 
 on:
   push:
     branches: [ master ]
-  pull_request:
-    branches: [ master ]
+  schedule:
+    - cron: "0 6 */1 * *"
 
 jobs:
   build:
@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: [3.5, 3.6, 3.7, 3.8]
+        python-version: [3.8]
 
     steps:
     - uses: actions/checkout@v2
@@ -37,3 +37,25 @@ jobs:
     - name: Test with pytest
       run: |
         pytest
+    - name: Update submodule
+      run: |
+        auth_header="$(git config --local --get http.https://github.com/.extraheader)"
+        git submodule sync --recursive
+        git -c "http.extraheader=$auth_header" -c protocol.version=2 submodule update --init --force --recursive --depth=2
+        git submodule update --remote    
+    - name: Generate json file
+      run: |
+        python run_script.py
+    - name: Commit data files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git status
+        git add -f ./data
+        git add -f ./created_json
+        git commit -m "Update data" || echo "Nothing to commit"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        repository: tana1024/covid19-tana-japan-web-api
+        github_token: ${{ secrets.GITHUB_TOKEN }}
