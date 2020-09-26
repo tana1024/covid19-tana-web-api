@@ -57,5 +57,5 @@ jobs:
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
-        repository: tana1024/covid19-tana-japan-web-api
+        repository: tana1024/covid19-tana-web-api
         github_token: ${{ secrets.GITHUB_TOKEN }}
