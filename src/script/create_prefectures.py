@@ -29,4 +29,3 @@ def create_json_file():
 
     with open(PREFECTURES_JSON_PATH, 'w', encoding='utf-8') as f:
         json.dump(list_pref, f, indent=2, ensure_ascii=False)
-
