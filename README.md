@@ -1,11 +1,16 @@
 # covid19-tana-web-api
 [![LICENSE](https://img.shields.io/github/license/tana1024/covid19-tana-web-api?color=blue)](./LICENSE)
 
-都道府県ごとの最新のCOVID-19（コロナウイルス）情報を取得するWeb APIです。(個人利用用です。)
+最新のCOVID-19（コロナウイルス）の各種情報を取得するWeb APIです。(個人利用用です。)
 
 #  使い方
 
+* [death_daily](#death_daily)
 * [Prefectures](#prefectures)
+
+## 日次の死者数データ(death_daily)
+
+**Endpoint**: [https://covid19-tana-web-api-git-master.tana1024.vercel.app/api/v1/death_daily](https://covid19-tana-web-api-git-master.tana1024.vercel.app//api/v1/death_daily)
 
 ## 都道府県ごとのデータ(Prefectures)
 
