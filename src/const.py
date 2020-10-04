@@ -1,14 +1,20 @@
 import os
 
 # output json path
-PREFECTURES_JSON_PATH = './created_json/prefectures.json'
 DEATH_DAILY_JSON_PATH = './created_json/death_daily.json'
+EFFECTIVE_REPRODUCTION_JSON_PATH = './created_json/effective_reproduction.json'
+PCR_POSITIVE_DAILY_JSON_PATH = './created_json/pcr_positive_daily.json'
+PCR_TESTED_DAILY_JSON_PATH = './created_json/pcr_tested_daily.json'
+PREFECTURES_JSON_PATH = './created_json/prefectures.json'
 SERIOUS_JSON_PATH = './created_json/serious.json'
 
 # source data path
 SOURCE_DATA_BASE_PATH = 'data/master_data/data'
-PREFECTURES_DATA_PATH = os.path.join(SOURCE_DATA_BASE_PATH, 'prefectures.csv')
 DEATH_DAILY_DATA_PATH = os.path.join(SOURCE_DATA_BASE_PATH, 'death_total.csv')
+EFFECTIVE_REPRODUCTION_DATA_PATH = os.path.join(SOURCE_DATA_BASE_PATH, 'effective_reproduction_number.csv')
+PCR_POSITIVE_DAILY_DATA_PATH = os.path.join(SOURCE_DATA_BASE_PATH, 'pcr_positive_daily.csv')
+PCR_TESTED_DAILY_DATA_PATH = os.path.join(SOURCE_DATA_BASE_PATH, 'pcr_tested_daily.csv')
+PREFECTURES_DATA_PATH = os.path.join(SOURCE_DATA_BASE_PATH, 'prefectures.csv')
 SERIOUS_DATA_PATH = os.path.join(SOURCE_DATA_BASE_PATH, 'serious.csv')
 
 PREFECTURES = {

@@ -2,6 +2,7 @@ import pandas as pd
 import json
 from ..const import (DEATH_DAILY_DATA_PATH, DEATH_DAILY_JSON_PATH)
 
+
 def create_json_file():
     df_death_daily = pd.read_csv(DEATH_DAILY_DATA_PATH, encoding='utf-8')
     df_death_daily = df_death_daily.fillna({'死亡者数': 0})

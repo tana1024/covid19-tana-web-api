@@ -1,918 +1,1046 @@
 [
   {
+    "date": "2020/01/16",
+    "pcr_positive": "1"
+  },
+  {
+    "date": "2020/01/17",
+    "pcr_positive": "0"
+  },
+  {
+    "date": "2020/01/18",
+    "pcr_positive": "0"
+  },
+  {
+    "date": "2020/01/19",
+    "pcr_positive": "0"
+  },
+  {
+    "date": "2020/01/20",
+    "pcr_positive": "0"
+  },
+  {
+    "date": "2020/01/21",
+    "pcr_positive": "0"
+  },
+  {
+    "date": "2020/01/22",
+    "pcr_positive": "0"
+  },
+  {
+    "date": "2020/01/23",
+    "pcr_positive": "0"
+  },
+  {
+    "date": "2020/01/24",
+    "pcr_positive": "1"
+  },
+  {
+    "date": "2020/01/25",
+    "pcr_positive": "1"
+  },
+  {
+    "date": "2020/01/26",
+    "pcr_positive": "1"
+  },
+  {
+    "date": "2020/01/27",
+    "pcr_positive": "0"
+  },
+  {
+    "date": "2020/01/28",
+    "pcr_positive": "3"
+  },
+  {
+    "date": "2020/01/29",
+    "pcr_positive": "1"
+  },
+  {
+    "date": "2020/01/30",
+    "pcr_positive": "3"
+  },
+  {
+    "date": "2020/01/31",
+    "pcr_positive": "1"
+  },
+  {
+    "date": "2020/02/01",
+    "pcr_positive": "0"
+  },
+  {
+    "date": "2020/02/02",
+    "pcr_positive": "0"
+  },
+  {
+    "date": "2020/02/03",
+    "pcr_positive": "0"
+  },
+  {
+    "date": "2020/02/04",
+    "pcr_positive": "2"
+  },
+  {
+    "date": "2020/02/05",
+    "pcr_positive": "2"
+  },
+  {
+    "date": "2020/02/06",
+    "pcr_positive": "0"
+  },
+  {
+    "date": "2020/02/07",
+    "pcr_positive": "0"
+  },
+  {
+    "date": "2020/02/08",
+    "pcr_positive": "0"
+  },
+  {
+    "date": "2020/02/09",
+    "pcr_positive": "0"
+  },
+  {
+    "date": "2020/02/10",
+    "pcr_positive": "0"
+  },
+  {
+    "date": "2020/02/11",
+    "pcr_positive": "0"
+  },
+  {
+    "date": "2020/02/12",
+    "pcr_positive": "1"
+  },
+  {
+    "date": "2020/02/13",
+    "pcr_positive": "4"
+  },
+  {
+    "date": "2020/02/14",
+    "pcr_positive": "7"
+  },
+  {
+    "date": "2020/02/15",
+    "pcr_positive": "12"
+  },
+  {
+    "date": "2020/02/16",
+    "pcr_positive": "6"
+  },
+  {
     "date": "2020/02/17",
-    "serious": "3"
+    "pcr_positive": "7"
   },
   {
     "date": "2020/02/18",
-    "serious": "6"
+    "pcr_positive": "7"
   },
   {
     "date": "2020/02/19",
-    "serious": "7"
+    "pcr_positive": "10"
   },
   {
     "date": "2020/02/20",
-    "serious": "9"
+    "pcr_positive": "9"
   },
   {
     "date": "2020/02/21",
-    "serious": "10"
+    "pcr_positive": "11"
   },
   {
     "date": "2020/02/22",
-    "serious": "11"
+    "pcr_positive": "27"
   },
   {
     "date": "2020/02/23",
-    "serious": "13"
+    "pcr_positive": "12"
   },
   {
     "date": "2020/02/24",
-    "serious": "14"
+    "pcr_positive": "12"
   },
   {
     "date": "2020/02/25",
-    "serious": "15"
+    "pcr_positive": "8"
   },
   {
     "date": "2020/02/26",
-    "serious": "16"
+    "pcr_positive": "22"
   },
   {
     "date": "2020/02/27",
-    "serious": "20"
+    "pcr_positive": "24"
   },
   {
     "date": "2020/02/28",
-    "serious": "22"
+    "pcr_positive": "20"
   },
   {
     "date": "2020/02/29",
-    "serious": "23"
+    "pcr_positive": "9"
   },
   {
     "date": "2020/03/01",
-    "serious": "23"
+    "pcr_positive": "15"
   },
   {
     "date": "2020/03/02",
-    "serious": "24"
+    "pcr_positive": "14"
   },
   {
     "date": "2020/03/03",
-    "serious": "24"
+    "pcr_positive": "16"
   },
   {
     "date": "2020/03/04",
-    "serious": "27"
+    "pcr_positive": "33"
   },
   {
     "date": "2020/03/05",
-    "serious": "30"
+    "pcr_positive": "31"
   },
   {
     "date": "2020/03/06",
-    "serious": "28"
+    "pcr_positive": "59"
   },
   {
     "date": "2020/03/07",
-    "serious": "27"
+    "pcr_positive": "47"
   },
   {
     "date": "2020/03/08",
-    "serious": "33"
+    "pcr_positive": "33"
   },
   {
     "date": "2020/03/09",
-    "serious": "31"
+    "pcr_positive": "26"
   },
   {
     "date": "2020/03/10",
-    "serious": "26"
+    "pcr_positive": "54"
   },
   {
     "date": "2020/03/11",
-    "serious": "29"
+    "pcr_positive": "52"
   },
   {
     "date": "2020/03/12",
-    "serious": "32"
+    "pcr_positive": "55"
   },
   {
     "date": "2020/03/13",
-    "serious": "35"
+    "pcr_positive": "40"
   },
   {
     "date": "2020/03/14",
-    "serious": "36"
+    "pcr_positive": "62"
   },
   {
     "date": "2020/03/15",
-    "serious": "41"
+    "pcr_positive": "33"
   },
   {
     "date": "2020/03/16",
-    "serious": "46"
+    "pcr_positive": "15"
   },
   {
     "date": "2020/03/17",
-    "serious": "46"
+    "pcr_positive": "44"
   },
   {
     "date": "2020/03/18",
-    "serious": "49"
+    "pcr_positive": "39"
   },
   {
     "date": "2020/03/19",
-    "serious": "50"
+    "pcr_positive": "36"
   },
   {
     "date": "2020/03/20",
-    "serious": "55"
+    "pcr_positive": "53"
   },
   {
     "date": "2020/03/21",
-    "serious": "57"
+    "pcr_positive": "34"
   },
   {
     "date": "2020/03/22",
-    "serious": "54"
+    "pcr_positive": "42"
   },
   {
     "date": "2020/03/23",
-    "serious": "55"
+    "pcr_positive": "38"
   },
   {
     "date": "2020/03/24",
-    "serious": "57"
+    "pcr_positive": "65"
   },
   {
     "date": "2020/03/25",
-    "serious": "56"
+    "pcr_positive": "93"
   },
   {
     "date": "2020/03/26",
-    "serious": "56"
+    "pcr_positive": "96"
   },
   {
     "date": "2020/03/27",
-    "serious": "60"
+    "pcr_positive": "104"
   },
   {
     "date": "2020/03/28",
-    "serious": "59"
+    "pcr_positive": "194"
   },
   {
     "date": "2020/03/29",
-    "serious": "59"
+    "pcr_positive": "185"
   },
   {
     "date": "2020/03/30",
-    "serious": "59"
+    "pcr_positive": "74"
   },
   {
     "date": "2020/03/31",
-    "serious": "60"
+    "pcr_positive": "218"
   },
   {
     "date": "2020/04/01",
-    "serious": "62"
+    "pcr_positive": "224"
   },
   {
     "date": "2020/04/02",
-    "serious": "64"
+    "pcr_positive": "253"
   },
   {
     "date": "2020/04/03",
-    "serious": "69"
+    "pcr_positive": "337"
   },
   {
     "date": "2020/04/04",
-    "serious": "70"
+    "pcr_positive": "370"
   },
   {
     "date": "2020/04/05",
-    "serious": "79"
+    "pcr_positive": "386"
   },
   {
     "date": "2020/04/06",
-    "serious": "80"
+    "pcr_positive": "270"
   },
   {
     "date": "2020/04/07",
-    "serious": "99"
+    "pcr_positive": "377"
   },
   {
     "date": "2020/04/08",
-    "serious": "109"
+    "pcr_positive": "550"
   },
   {
     "date": "2020/04/09",
-    "serious": "117"
+    "pcr_positive": "572"
   },
   {
     "date": "2020/04/10",
-    "serious": "122"
+    "pcr_positive": "708"
   },
   {
     "date": "2020/04/11",
-    "serious": "129"
+    "pcr_positive": "676"
   },
   {
     "date": "2020/04/12",
-    "serious": "135"
+    "pcr_positive": "571"
   },
   {
     "date": "2020/04/13",
-    "serious": "152"
+    "pcr_positive": "333"
   },
   {
     "date": "2020/04/14",
-    "serious": "168"
+    "pcr_positive": "511"
   },
   {
     "date": "2020/04/15",
-    "serious": "193"
+    "pcr_positive": "511"
   },
   {
     "date": "2020/04/16",
-    "serious": "207"
+    "pcr_positive": "596"
   },
   {
     "date": "2020/04/17",
-    "serious": "211"
+    "pcr_positive": "575"
   },
   {
     "date": "2020/04/18",
-    "serious": "217"
+    "pcr_positive": "590"
   },
   {
     "date": "2020/04/19",
-    "serious": "231"
+    "pcr_positive": "372"
   },
   {
     "date": "2020/04/20",
-    "serious": "232"
+    "pcr_positive": "365"
   },
   {
     "date": "2020/04/21",
-    "serious": "241"
+    "pcr_positive": "374"
   },
   {
     "date": "2020/04/22",
-    "serious": "259"
+    "pcr_positive": "450"
   },
   {
     "date": "2020/04/23",
-    "serious": "263"
+    "pcr_positive": "445"
   },
   {
     "date": "2020/04/24",
-    "serious": "287"
+    "pcr_positive": "451"
   },
   {
     "date": "2020/04/25",
-    "serious": "296"
+    "pcr_positive": "374"
   },
   {
     "date": "2020/04/26",
-    "serious": "300"
+    "pcr_positive": "221"
   },
   {
     "date": "2020/04/27",
-    "serious": "305"
+    "pcr_positive": "189"
   },
   {
     "date": "2020/04/28",
-    "serious": "306"
+    "pcr_positive": "284"
   },
   {
     "date": "2020/04/29",
-    "serious": "308"
+    "pcr_positive": "227"
   },
   {
     "date": "2020/04/30",
-    "serious": "328"
+    "pcr_positive": "199"
   },
   {
     "date": "2020/05/01",
-    "serious": "324"
+    "pcr_positive": "266"
   },
   {
     "date": "2020/05/02",
-    "serious": "321"
+    "pcr_positive": "302"
   },
   {
     "date": "2020/05/03",
-    "serious": "308"
+    "pcr_positive": "204"
   },
   {
     "date": "2020/05/04",
-    "serious": "309"
+    "pcr_positive": "177"
   },
   {
     "date": "2020/05/05",
-    "serious": "308"
+    "pcr_positive": "120"
   },
   {
     "date": "2020/05/06",
-    "serious": "300"
+    "pcr_positive": "106"
   },
   {
     "date": "2020/05/07",
-    "serious": "287"
+    "pcr_positive": "96"
   },
   {
     "date": "2020/05/08",
-    "serious": "266"
+    "pcr_positive": "89"
   },
   {
     "date": "2020/05/09",
-    "serious": "267"
+    "pcr_positive": "108"
   },
   {
     "date": "2020/05/10",
-    "serious": "249"
+    "pcr_positive": "68"
   },
   {
     "date": "2020/05/11",
-    "serious": "243"
+    "pcr_positive": "50"
   },
   {
     "date": "2020/05/12",
-    "serious": "259"
+    "pcr_positive": "80"
   },
   {
     "date": "2020/05/13",
-    "serious": "245"
+    "pcr_positive": "54"
   },
   {
     "date": "2020/05/14",
-    "serious": "237"
+    "pcr_positive": "100"
   },
   {
     "date": "2020/05/15",
-    "serious": "232"
+    "pcr_positive": "52"
   },
   {
     "date": "2020/05/16",
-    "serious": "230"
+    "pcr_positive": "57"
   },
   {
     "date": "2020/05/17",
-    "serious": "228"
+    "pcr_positive": "30"
   },
   {
     "date": "2020/05/18",
-    "serious": "213"
+    "pcr_positive": "30"
   },
   {
     "date": "2020/05/19",
-    "serious": "210"
+    "pcr_positive": "31"
   },
   {
     "date": "2020/05/20",
-    "serious": "195"
+    "pcr_positive": "38"
   },
   {
     "date": "2020/05/21",
-    "serious": "176"
+    "pcr_positive": "43"
   },
   {
     "date": "2020/05/22",
-    "serious": "174"
+    "pcr_positive": "31"
   },
   {
     "date": "2020/05/23",
-    "serious": "168"
+    "pcr_positive": "29"
   },
   {
     "date": "2020/05/24",
-    "serious": "165"
+    "pcr_positive": "40"
   },
   {
     "date": "2020/05/25",
-    "serious": "155"
+    "pcr_positive": "20"
   },
   {
     "date": "2020/05/26",
-    "serious": "147"
+    "pcr_positive": "27"
   },
   {
     "date": "2020/05/27",
-    "serious": "136"
+    "pcr_positive": "37"
   },
   {
     "date": "2020/05/28",
-    "serious": "131"
+    "pcr_positive": "61"
   },
   {
     "date": "2020/05/29",
-    "serious": "123"
+    "pcr_positive": "64"
   },
   {
     "date": "2020/05/30",
-    "serious": "119"
+    "pcr_positive": "46"
   },
   {
     "date": "2020/05/31",
-    "serious": "115"
+    "pcr_positive": "32"
   },
   {
     "date": "2020/06/01",
-    "serious": "113"
+    "pcr_positive": "36"
   },
   {
     "date": "2020/06/02",
-    "serious": "101"
+    "pcr_positive": "51"
   },
   {
     "date": "2020/06/03",
-    "serious": "102"
+    "pcr_positive": "26"
   },
   {
     "date": "2020/06/04",
-    "serious": "98"
+    "pcr_positive": "45"
   },
   {
     "date": "2020/06/05",
-    "serious": "99"
+    "pcr_positive": "41"
   },
   {
     "date": "2020/06/06",
-    "serious": "98"
+    "pcr_positive": "45"
   },
   {
     "date": "2020/06/07",
-    "serious": "99"
+    "pcr_positive": "32"
   },
   {
     "date": "2020/06/08",
-    "serious": "92"
+    "pcr_positive": "22"
   },
   {
     "date": "2020/06/09",
-    "serious": "91"
+    "pcr_positive": "30"
   },
   {
     "date": "2020/06/10",
-    "serious": "88"
+    "pcr_positive": "36"
   },
   {
     "date": "2020/06/11",
-    "serious": "82"
+    "pcr_positive": "40"
   },
   {
     "date": "2020/06/12",
-    "serious": "76"
+    "pcr_positive": "57"
   },
   {
     "date": "2020/06/13",
-    "serious": "73"
+    "pcr_positive": "43"
   },
   {
     "date": "2020/06/14",
-    "serious": "71"
+    "pcr_positive": "62"
   },
   {
     "date": "2020/06/15",
-    "serious": "80"
+    "pcr_positive": "60"
   },
   {
     "date": "2020/06/16",
-    "serious": "70"
+    "pcr_positive": "42"
   },
   {
     "date": "2020/06/17",
-    "serious": "62"
+    "pcr_positive": "43"
   },
   {
     "date": "2020/06/18",
-    "serious": "62"
+    "pcr_positive": "68"
   },
   {
     "date": "2020/06/19",
-    "serious": "61"
+    "pcr_positive": "54"
   },
   {
     "date": "2020/06/20",
-    "serious": "59"
+    "pcr_positive": "65"
   },
   {
     "date": "2020/06/21",
-    "serious": "59"
+    "pcr_positive": "49"
   },
   {
     "date": "2020/06/22",
-    "serious": "62"
+    "pcr_positive": "40"
   },
   {
     "date": "2020/06/23",
-    "serious": "60"
+    "pcr_positive": "53"
   },
   {
     "date": "2020/06/24",
-    "serious": "58"
+    "pcr_positive": "89"
   },
   {
     "date": "2020/06/25",
-    "serious": "51"
+    "pcr_positive": "79"
   },
   {
     "date": "2020/06/26",
-    "serious": "48"
+    "pcr_positive": "99"
   },
   {
     "date": "2020/06/27",
-    "serious": "45"
+    "pcr_positive": "88"
   },
   {
     "date": "2020/06/28",
-    "serious": "43"
+    "pcr_positive": "111"
   },
   {
     "date": "2020/06/29",
-    "serious": "42"
+    "pcr_positive": "110"
   },
   {
     "date": "2020/06/30",
-    "serious": "40"
+    "pcr_positive": "132"
   },
   {
     "date": "2020/07/01",
-    "serious": "37"
+    "pcr_positive": "125"
   },
   {
     "date": "2020/07/02",
-    "serious": "33"
+    "pcr_positive": "194"
   },
   {
     "date": "2020/07/03",
-    "serious": "32"
+    "pcr_positive": "249"
   },
   {
     "date": "2020/07/04",
-    "serious": "33"
+    "pcr_positive": "268"
   },
   {
     "date": "2020/07/05",
-    "serious": "34"
+    "pcr_positive": "195"
   },
   {
     "date": "2020/07/06",
-    "serious": "36"
+    "pcr_positive": "172"
   },
   {
     "date": "2020/07/07",
-    "serious": "35"
+    "pcr_positive": "208"
   },
   {
     "date": "2020/07/08",
-    "serious": "38"
+    "pcr_positive": "203"
   },
   {
     "date": "2020/07/09",
-    "serious": "31"
+    "pcr_positive": "352"
   },
   {
     "date": "2020/07/10",
-    "serious": "33"
+    "pcr_positive": "420"
   },
   {
     "date": "2020/07/11",
-    "serious": "32"
+    "pcr_positive": "373"
   },
   {
     "date": "2020/07/12",
-    "serious": "34"
+    "pcr_positive": "391"
   },
   {
     "date": "2020/07/13",
-    "serious": "40"
+    "pcr_positive": "248"
   },
   {
     "date": "2020/07/14",
-    "serious": "38"
+    "pcr_positive": "327"
   },
   {
     "date": "2020/07/15",
-    "serious": "37"
+    "pcr_positive": "440"
   },
   {
     "date": "2020/07/16",
-    "serious": "39"
+    "pcr_positive": "619"
   },
   {
     "date": "2020/07/17",
-    "serious": "41"
+    "pcr_positive": "588"
   },
   {
     "date": "2020/07/18",
-    "serious": "43"
+    "pcr_positive": "655"
   },
   {
     "date": "2020/07/19",
-    "serious": "47"
+    "pcr_positive": "501"
   },
   {
     "date": "2020/07/20",
-    "serious": "52"
+    "pcr_positive": "407"
   },
   {
     "date": "2020/07/21",
-    "serious": "55"
+    "pcr_positive": "618"
   },
   {
     "date": "2020/07/22",
-    "serious": "59"
+    "pcr_positive": "792"
   },
   {
     "date": "2020/07/23",
-    "serious": "68"
+    "pcr_positive": "966"
   },
   {
     "date": "2020/07/24",
-    "serious": "64"
+    "pcr_positive": "766"
   },
   {
     "date": "2020/07/25",
-    "serious": "66"
+    "pcr_positive": "798"
   },
   {
     "date": "2020/07/26",
-    "serious": "67"
+    "pcr_positive": "830"
   },
   {
     "date": "2020/07/27",
-    "serious": "76"
+    "pcr_positive": "581"
   },
   {
     "date": "2020/07/28",
-    "serious": "81"
+    "pcr_positive": "968"
   },
   {
     "date": "2020/07/29",
-    "serious": "90"
+    "pcr_positive": "1242"
   },
   {
     "date": "2020/07/30",
-    "serious": "87"
+    "pcr_positive": "1297"
   },
   {
     "date": "2020/07/31",
-    "serious": "80"
+    "pcr_positive": "1574"
   },
   {
     "date": "2020/08/01",
-    "serious": "83"
+    "pcr_positive": "1535"
   },
   {
     "date": "2020/08/02",
-    "serious": "87"
+    "pcr_positive": "1324"
   },
   {
     "date": "2020/08/03",
-    "serious": "88"
+    "pcr_positive": "937"
   },
   {
     "date": "2020/08/04",
-    "serious": "104"
+    "pcr_positive": "1234"
   },
   {
     "date": "2020/08/05",
-    "serious": "115"
+    "pcr_positive": "1350"
   },
   {
     "date": "2020/08/06",
-    "serious": "131"
+    "pcr_positive": "1479"
   },
   {
     "date": "2020/08/07",
-    "serious": "140"
+    "pcr_positive": "1595"
   },
   {
     "date": "2020/08/08",
-    "serious": "156"
+    "pcr_positive": "1523"
   },
   {
     "date": "2020/08/09",
-    "serious": "162"
+    "pcr_positive": "1486"
   },
   {
     "date": "2020/08/10",
-    "serious": "171"
+    "pcr_positive": "836"
   },
   {
     "date": "2020/08/11",
-    "serious": "177"
+    "pcr_positive": "693"
   },
   {
     "date": "2020/08/12",
-    "serious": "203"
+    "pcr_positive": "969"
   },
   {
     "date": "2020/08/13",
-    "serious": "211"
+    "pcr_positive": "1176"
   },
   {
     "date": "2020/08/14",
-    "serious": "229"
+    "pcr_positive": "1356"
   },
   {
     "date": "2020/08/15",
-    "serious": "232"
+    "pcr_positive": "1234"
   },
   {
     "date": "2020/08/16",
-    "serious": "243"
+    "pcr_positive": "1017"
   },
   {
     "date": "2020/08/17",
-    "serious": "243"
+    "pcr_positive": "630"
   },
   {
     "date": "2020/08/18",
-    "serious": "239"
+    "pcr_positive": "904"
   },
   {
     "date": "2020/08/19",
-    "serious": "237"
+    "pcr_positive": "1080"
   },
   {
     "date": "2020/08/20",
-    "serious": "243"
+    "pcr_positive": "1182"
   },
   {
     "date": "2020/08/21",
-    "serious": "243"
+    "pcr_positive": "1036"
   },
   {
     "date": "2020/08/22",
-    "serious": "254"
+    "pcr_positive": "985"
   },
   {
     "date": "2020/08/23",
-    "serious": "259"
+    "pcr_positive": "739"
   },
   {
     "date": "2020/08/24",
-    "serious": "252"
+    "pcr_positive": "491"
   },
   {
     "date": "2020/08/25",
-    "serious": "246"
+    "pcr_positive": "712"
   },
   {
     "date": "2020/08/26",
-    "serious": "238"
+    "pcr_positive": "893"
   },
   {
     "date": "2020/08/27",
-    "serious": "227"
+    "pcr_positive": "867"
   },
   {
     "date": "2020/08/28",
-    "serious": "230"
+    "pcr_positive": "870"
   },
   {
     "date": "2020/08/29",
-    "serious": "234"
+    "pcr_positive": "844"
   },
   {
     "date": "2020/08/30",
-    "serious": "236"
+    "pcr_positive": "598"
   },
   {
     "date": "2020/08/31",
-    "serious": "234"
+    "pcr_positive": "425"
   },
   {
     "date": "2020/09/01",
-    "serious": "225"
+    "pcr_positive": "624"
   },
   {
     "date": "2020/09/02",
-    "serious": "218"
+    "pcr_positive": "589"
   },
   {
     "date": "2020/09/03",
-    "serious": "214"
+    "pcr_positive": "656"
   },
   {
     "date": "2020/09/04",
-    "serious": "210"
+    "pcr_positive": "583"
   },
   {
     "date": "2020/09/05",
-    "serious": "211"
+    "pcr_positive": "598"
   },
   {
     "date": "2020/09/06",
-    "serious": "209"
+    "pcr_positive": "447"
   },
   {
     "date": "2020/09/07",
-    "serious": "202"
+    "pcr_positive": "288"
   },
   {
     "date": "2020/09/08",
-    "serious": "202"
+    "pcr_positive": "514"
   },
   {
     "date": "2020/09/09",
-    "serious": "198"
+    "pcr_positive": "507"
   },
   {
     "date": "2020/09/10",
-    "serious": "191"
+    "pcr_positive": "709"
   },
   {
     "date": "2020/09/11",
-    "serious": "190"
+    "pcr_positive": "639"
   },
   {
     "date": "2020/09/12",
-    "serious": "180"
+    "pcr_positive": "641"
   },
   {
     "date": "2020/09/13",
-    "serious": "185"
+    "pcr_positive": "439"
   },
   {
     "date": "2020/09/14",
-    "serious": "174"
+    "pcr_positive": "265"
   },
   {
     "date": "2020/09/15",
-    "serious": "178"
+    "pcr_positive": "531"
   },
   {
     "date": "2020/09/16",
-    "serious": "167"
+    "pcr_positive": "543"
   },
   {
     "date": "2020/09/17",
-    "serious": "170"
+    "pcr_positive": "480"
   },
   {
     "date": "2020/09/18",
-    "serious": "161"
+    "pcr_positive": "569"
   },
   {
     "date": "2020/09/19",
-    "serious": "159"
+    "pcr_positive": "597"
   },
   {
     "date": "2020/09/20",
-    "serious": "163"
+    "pcr_positive": "469"
   },
   {
     "date": "2020/09/21",
-    "serious": "164"
+    "pcr_positive": "307"
   },
   {
     "date": "2020/09/22",
-    "serious": "165"
+    "pcr_positive": "322"
   },
   {
     "date": "2020/09/23",
-    "serious": "166"
+    "pcr_positive": "216"
   },
   {
     "date": "2020/09/24",
-    "serious": "163"
+    "pcr_positive": "477"
   },
   {
     "date": "2020/09/25",
-    "serious": "156"
+    "pcr_positive": "570"
   },
   {
     "date": "2020/09/26",
-    "serious": "160"
+    "pcr_positive": "638"
   },
   {
     "date": "2020/09/27",
-    "serious": "159"
+    "pcr_positive": "478"
   },
   {
     "date": "2020/09/28",
-    "serious": "161"
+    "pcr_positive": "294"
   },
   {
     "date": "2020/09/29",
-    "serious": "151"
+    "pcr_positive": "531"
   },
   {
     "date": "2020/09/30",
-    "serious": "151"
+    "pcr_positive": "570"
   },
   {
     "date": "2020/10/01",
-    "serious": "145"
+    "pcr_positive": "623"
   },
   {
     "date": "2020/10/02",
-    "serious": "137"
+    "pcr_positive": "537"
   }
 ]

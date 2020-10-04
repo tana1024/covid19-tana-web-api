@@ -2,6 +2,7 @@ import pandas as pd
 import json
 from ..const import (SERIOUS_DATA_PATH, SERIOUS_JSON_PATH)
 
+
 def create_json_file():
     df_serious = pd.read_csv(SERIOUS_DATA_PATH, encoding='utf-8')
     df_serious = df_serious.fillna({'serious': 0})
