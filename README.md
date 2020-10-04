@@ -5,14 +5,40 @@
 
 #  使い方
 
-* [death_daily](#death_daily)
-* [Prefectures](#prefectures)
+* [Death Daily](#death-daily)：日次の死者数を取得する。
+* [Prefectures](#prefectures)：都道府県ごとのCOVID-19に関する各種データを取得する。
 
-## 日次の死者数データ(death_daily)
+## Death Daily
 
 **Endpoint**: [https://covid19-tana-web-api-git-master.tana1024.vercel.app/api/v1/death_daily](https://covid19-tana-web-api-git-master.tana1024.vercel.app//api/v1/death_daily)
 
-## 都道府県ごとのデータ(Prefectures)
+<details>
+<summary><b>Response</b></summary>
+
+```json
+[
+  {
+    "id": "1",
+    "latest": "2020/09/25",
+    "prefectureNameJ": "北海道",
+    "prefectureNameE": "Hokkaido",
+    "testedPositive": "2007",
+    "peopleTested": "54736.0",
+    "hospitalized": "97.0",
+    "serious": "1",
+    "discharged": "1803.0",
+    "deaths": "107",
+    "effectiveReproductionNumber": "1.61"
+  },
+...
+```
+
+</details>
+
+---
+
+
+## Prefectures
 
 **Endpoint**: [https://covid19-tana-web-api-git-master.tana1024.vercel.app/api/v1/prefectures](https://covid19-tana-web-api-git-master.tana1024.vercel.app//api/v1/prefectures)
 
