@@ -122,17 +122,17 @@
 ```json
 [
   {
-    "id": "1",
-    "latest": "2020/09/25",
-    "prefectureNameJ": "北海道",
-    "prefectureNameE": "Hokkaido",
-    "testedPositive": "2007",
-    "peopleTested": "54736.0",
-    "hospitalized": "97.0",
-    "serious": "1",
-    "discharged": "1803.0",
-    "deaths": "107",
-    "effectiveReproductionNumber": "1.61"
+    id: "1",
+    latest: "2020/10/03",
+    prefectureNameJ: "北海道",
+    prefectureNameE: "Hokkaido",
+    testedPositive: "2141",
+    peopleTested: "58835.0",
+    hospitalized: "135.0",
+    serious: "0",
+    discharged: "1899.0",
+    deaths: "107",
+    effectiveReproductionNumber: "1.03"
   },
   ...
 ]
@@ -179,3 +179,8 @@
 </details>
 
 ---
+
+
+#  参考サイト
+https://github.com/kaz-ogiwara/covid19/  
+https://github.com/ryo-ma/covid19-japan-web-api
