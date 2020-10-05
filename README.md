@@ -6,7 +6,11 @@
 #  使い方
 
 * [Death Daily](#death-daily)：日次の死者数を取得する。
+* [Effective Reproduction](#effective-reproduction)：日次の実効再生産数を取得する。
+* [Pcr Positive Daily](#pcr-positive-daily)：日次のPCR検査陽性の人数を取得する。
+* [Pcr Tested Daily](#pcr-tested-daily)：日次のPCR検査数を取得する。
 * [Prefectures](#prefectures)：都道府県ごとのCOVID-19に関する各種データを取得する。
+* [Serious](#serious)：その日の重傷者の人数を取得する。
 
 ## Death Daily
 
