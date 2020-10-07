@@ -22,8 +22,8 @@
 ```json
 [
   {
-     date: "2020/02/14",
-     death: "1"
+     "date": "2020/02/14",
+     "death": "1"
   },
   ...
 ]
@@ -47,8 +47,8 @@
 ```json
 [
   {
-    date: "2020/03/01",
-    effective_reproduction: "1.22"
+    "date": "2020/03/01",
+    "effective_reproduction": "1.22"
   },
   ...
 ]
@@ -72,8 +72,8 @@
 ```json
 [
   {
-    date: "2020/01/16",
-    pcr_positive: "1"
+    "date": "2020/01/16",
+    "pcr_positive": "1"
   },
   ...
 ]
@@ -97,8 +97,8 @@
 ```json
 [
   {
-    date: "2020/02/05",
-    pcr_tested: "4"
+    "date": "2020/02/05",
+    "pcr_tested": "4"
   },
   ...
 ]
@@ -122,17 +122,17 @@
 ```json
 [
   {
-    id: "1",
-    latest: "2020/10/03",
-    prefectureNameJ: "北海道",
-    prefectureNameE: "Hokkaido",
-    testedPositive: "2141",
-    peopleTested: "58835.0",
-    hospitalized: "135.0",
-    serious: "0",
-    discharged: "1899.0",
-    deaths: "107",
-    effectiveReproductionNumber: "1.03"
+    "id": "1",
+    "latest": "2020/10/03",
+    "prefectureNameJ": "北海道",
+    "prefectureNameE": "Hokkaido",
+    "testedPositive": "2141",
+    "peopleTested": "58835.0",
+    "hospitalized": "135.0",
+    "serious": "0",
+    "discharged": "1899.0",
+    "deaths": "107",
+    "effectiveReproductionNumber": "1.03"
   },
   ...
 ]
@@ -165,8 +165,8 @@
 ```json
 [
   {
-    date: "2020/02/17",
-    serious: "3"
+    "date": "2020/02/17",
+    "serious": "3"
   },
   ...
 ]
