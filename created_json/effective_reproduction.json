@@ -966,5 +966,13 @@
   {
     "date": "2020/10/28",
     "effective_reproduction": "1.1"
+  },
+  {
+    "date": "2020/10/29",
+    "effective_reproduction": "1.16"
+  },
+  {
+    "date": "2020/10/30",
+    "effective_reproduction": "1.14"
   }
 ]
