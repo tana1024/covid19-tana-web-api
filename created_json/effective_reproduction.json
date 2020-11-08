@@ -994,5 +994,13 @@
   {
     "date": "2020/11/04",
     "effective_reproduction": "1.11"
+  },
+  {
+    "date": "2020/11/05",
+    "effective_reproduction": "1.11"
+  },
+  {
+    "date": "2020/11/06",
+    "effective_reproduction": "1.16"
   }
 ]
